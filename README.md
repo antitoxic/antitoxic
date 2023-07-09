@@ -4,8 +4,10 @@ I have
 [some open source projects looking for funding](https://github.com/antitoxic/prerender-spa-ultra)
 😇 but otherwise:
 
-- 💬 **Ask me** about: TypeScript, FE project setup (_without using generators
-  like CRA_), Jamstack
+- 💬 **Ask me** about: TypeScript, UI project architecture, FE project setup
+  (_from scratch, w/o using generators like CRA_),
+  [Jamstack](https://jamstack.org/), monorepo management, civic hacking, React,
+  observables, [Sanity.js](https://www.sanity.io/)
 - ❤️ I **enjoy** making good software and a mix of japandi+mediterranean
   interior design.
 - 🎯 My **focus** is making things simpler, understandable, minimalistic,
