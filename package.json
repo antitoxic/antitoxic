@@ -1,0 +1,11 @@
+{
+  "name": "antitoxic",
+  "version": "1.0.0",
+  "prettier": {
+    "singleQuote": true,
+    "proseWrap": "always",
+    "arrowParens": "avoid",
+    "trailingComma": "es5",
+    "jsxBracketSameLine": true
+  }
+}
