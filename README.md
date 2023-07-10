@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I have
-[some open source projects looking for funding](https://github.com/antitoxic/prerender-spa-ultra)
+[some open source projects looking for funding](https://github.com/antitoxic?tab=repositories)
 😇 but otherwise:
 
 - 💬 **Ask me** about: TypeScript, UI project architecture, FE project setup
