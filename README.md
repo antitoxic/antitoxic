@@ -6,8 +6,9 @@ I have
 
 - 💬 **Ask me** about: TypeScript, UI project architecture, FE project setup
   (_from scratch, w/o using generators like CRA_),
-  [Jamstack](https://jamstack.org/), monorepo management, civic hacking, React,
-  observables, [Sanity.js](https://www.sanity.io/)
+  [Jamstack](https://jamstack.org/), monorepo management, visual testing, 
+  micro-frontends & module federation, civic hacking, React, observables,
+  [Sanity.js](https://www.sanity.io/)
 - ❤️ I **enjoy** making good software and a mix of japandi+mediterranean
   interior design.
 - 🎯 My **focus** is making things simpler, understandable, minimalistic,
