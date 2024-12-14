@@ -29,13 +29,13 @@ I have
 Proud ex-member of [Obshtestvo.bg](https://www.obshtestvo.bg/)
 
 ### ⚖️ My Core Principles in Software development
+- Tools & frameworks are coming and going all the time, what's eternal is **the need to move from one version to another or one tool to another**
 - The way to **avoid a dying codebase is to make it composable** and its pieces **swappable**
-- Tools are coming and going all the time, what's eternal is **the need to move from one version to another or one tool to another**
 - Developers should have **direct access to configure the underlyng tools** used in their development, not to be hidden through layers of abstractions and meta-configuration
 - Developers must be aware of **what their project dependencies mean** for the final code they deploy
-- **Code editors are first-class runtime environments** we need to care about
+- **Code editors are first-class runtime environments for tools** & we need to care about them
 - A big part of advancing technical skills is understanding the underlying platforms, their capabilities & limitations
-- A big part of being a good developer is caring about how well can your code be understood, edited & debug-ed by others
+- A big part of being a good developer is caring about how well can your code be understood, edited & debugged by others
 - A big part of any job is to understand others & share a common goal
 - Companies developing software should have a **common shared foundation** all their teams build upon, but individual teams should have **control over their project-specific needs**
 - `JSON` **is a terrible configuration format**.
@@ -44,4 +44,4 @@ Proud ex-member of [Obshtestvo.bg](https://www.obshtestvo.bg/)
   - Prefer `.mjs` with `jsdoc` comments when `.ts` is not an option (_but think why `.ts` is not?_)
   - Prefer `.cjs` with `jsdoc` comments when `.mjs` is not an option (_but think why `.ts` is not?_)
   - If there really isn't a way not to use anything else but `JSON`, then use json schema to validate it and enforce it using a tool like `eslint` that has good code editor support
-- 
+- AI is just another integration point: platform/runtime/tool.
