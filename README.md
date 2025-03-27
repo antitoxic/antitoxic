@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I have
-[some open source projects looking for funding](https://github.com/antitoxic?tab=repositories)
+I am the lead maintainer of [the Breakproof base monorepo](https://github.com/YotpoLtd/frontend-base-monorepo) and have
+[some open source projects looking for funding](https://github.com/antitoxic?tab=repositories&q=pinned&type=&language=&sort=)
 😇 but otherwise:
 
 - 💬 **Ask me** about:
